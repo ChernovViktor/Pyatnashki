@@ -43,7 +43,7 @@ void Move(int**& field, int n1, int n2)
 	{
 	 case 'W':
 	 {
-	    
+		 
 	 }
 	 case 'S':
 	 {
